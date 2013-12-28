@@ -1,3 +1,5 @@
+//Feel free to copy and redistribute this code :)
+
 package com.alejandro1093.www.calculateIntegrals;
 
 import android.app.Activity;
